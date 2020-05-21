@@ -1,8 +1,14 @@
 # Mushaf-Joza-Amma-With-XML
 Mushaf(Joza-Amma) desgined with xml and dtd and css and xslt
 ## View
+</br>
+- With CSS:
+</br>
 ![With CSS](https://github.com/yassersaidi/Mushaf-Juza-Amma-XML/blob/master/Demo%20Pics/With%20CSS.png)
-![With XSL](https://github.com/yassersaidi/Mushaf-Juza-Amma-XML/blob/master/Demo%20Pics/With%20CSS.xsl)
+</br>
+- With XSL:
+</br>
+![With XSL](https://github.com/yassersaidi/Mushaf-Juza-Amma-XML/blob/master/Demo%20Pics/With%20XSL.png)
 
 ## To Best Results
 
