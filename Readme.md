@@ -1,11 +1,12 @@
 # Mushaf-Joza-Amma-With-XML
 Mushaf(Joza-Amma) desgined with xml and dtd and css and xslt
-# View
-![Image description](link-to-image)
+## View
+![With CSS](https://github.com/yassersaidi/Mushaf-Juza-Amma-XML/blob/master/Demo%20Pics/With%20CSS.png)
+![With XSL](https://github.com/yassersaidi/Mushaf-Juza-Amma-XML/blob/master/Demo%20Pics/With%20CSS.xsl)
 
 ## To Best Results
 
-please use linux os to view mushaf.xml in the browser & install the two fonts 'Sindbad & KacstFarsi' to avoid font view problems, and get best appearance
+open mushaf-amma1.xml in the browser and install the two fonts 'Sindbad & KacstFarsi' to avoid font view problems, and get best appearance
 
 ## Switch between CSS & XSLT
 
