@@ -1,0 +1,13 @@
+<!ELEMENT mushaf (sura)+>
+<!ATTLIST mushaf rewayat CDATA #REQUIRED>
+<!ATTLIST mushaf xmlns:xsi CDATA #REQUIRED>
+<!ATTLIST mushaf xsi:noNamespaceSchemaLocation CDATA #REQUIRED>
+<!ELEMENT sura (aya)+>
+<!ATTLIST sura nb_aya CDATA #REQUIRED>
+<!ATTLIST sura id CDATA #REQUIRED>
+<!ATTLIST sura name CDATA #REQUIRED>
+<!ATTLIST sura nozol CDATA #REQUIRED>
+<!ELEMENT aya (#PCDATA)>
+<!ATTLIST aya id CDATA #REQUIRED>
+
+
