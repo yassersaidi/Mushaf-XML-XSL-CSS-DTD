@@ -1,13 +1,13 @@
-<!ELEMENT mushaf (sura)+>
-<!ATTLIST mushaf rewayat CDATA #REQUIRED>
-<!ATTLIST mushaf xmlns:xsi CDATA #REQUIRED>
-<!ATTLIST mushaf xsi:noNamespaceSchemaLocation CDATA #REQUIRED>
-<!ELEMENT sura (aya)+>
-<!ATTLIST sura nb_aya CDATA #REQUIRED>
-<!ATTLIST sura id CDATA #REQUIRED>
-<!ATTLIST sura name CDATA #REQUIRED>
-<!ATTLIST sura nozol CDATA #REQUIRED>
+<!ELEMENT Mushaf (Sura+)>
+<!ATTLIST Mushaf TranslationID CDATA #REQUIRED>
+<!ATTLIST Mushaf Writer CDATA #REQUIRED>
+<!ATTLIST Mushaf Language CDATA #REQUIRED>
+<!ATTLIST Mushaf LanguageIsoCode CDATA #REQUIRED>
+<!ATTLIST Mushaf Direction (rtl|ltr) #REQUIRED>
+<!ELEMENT Sura (aya+)>
+<!ATTLIST Sura ID CDATA #REQUIRED>
+<!ATTLIST Sura Nb_aya CDATA #REQUIRED>
+<!ATTLIST Sura Nozol CDATA #REQUIRED>
+<!ATTLIST Sura Name CDATA #REQUIRED>
 <!ELEMENT aya (#PCDATA)>
-<!ATTLIST aya id CDATA #REQUIRED>
-
-
+<!ATTLIST aya ID CDATA #REQUIRED>
