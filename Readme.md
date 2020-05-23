@@ -1,5 +1,5 @@
-# Mushaf-Joza-Amma-With-XML
-Mushaf in XMl format, desgined  and css and xslt
+# Mushaf-In-XML-Format
+Mushaf in XMl format, desgined with css and xslt
 ## More Details
 - This copy of quran text is carefully produced only (Ayat or verse), highly
 verified and continuously monitored by a group of specialists at the Tanzil project From [Tanzil Info](http://tanzil.info)
