@@ -41,7 +41,7 @@ verified and continuously monitored by a group of specialists at the Tanzil proj
 
 ## To Best Results
 
-open mushaf.xml in the browser and install the two fonts 'Sindbad & KacstFarsi' to avoid font view problems, and get best appearance
+open mushaf.xml in the Firefox browser and install the two fonts 'Sindbad & KacstFarsi' to avoid font view problems, and get best appearance
 
 ## Switch between CSS & XSLT
 
