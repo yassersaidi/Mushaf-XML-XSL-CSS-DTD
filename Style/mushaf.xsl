@@ -10,8 +10,9 @@ Github: yassersaidi
         doctype-public="-//W3C//DTDXHTML 1.0 Transitional//EN" 
         doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
     <xsl:template match="/">
-        <html dir="rtl" 
+        <html
             xmlns="http://www.w3.org/1999/xhtml">
+            <xsl:attribute name="dir"><xsl:value-of select="Mushaf/@Direction"></xsl:value-of></xsl:attribute>
             <body style="
                 width:90%;
                 background-image: url('../Background/Sea.jpg');
