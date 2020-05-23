@@ -15,7 +15,7 @@ Github: yassersaidi
             <xsl:attribute name="dir"><xsl:value-of select="Mushaf/@Direction"></xsl:value-of></xsl:attribute>
             <body style="
                 width:90%;
-                background-image: url('../Background/Sea.jpg');
+                background-image: url('Background/Sea.jpg');
                 background-attachment: fixed;
                 background-repeat: no-repeat;
                 background-size: cover  ;
