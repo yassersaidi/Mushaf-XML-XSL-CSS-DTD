@@ -33,6 +33,8 @@ verified and continuously monitored by a group of specialists at the Tanzil proj
   | ID                    | The number of Aya in sura                       |
   </br>
  ## View </br>
+- ![Demo](https://yassersaidi.github.io/Mushaf-XML-XSL-CSS-DTD/mushaf.xml)
+<br/>
 - With CSS: <br/>
 ![With CSS](https://github.com/yassersaidi/Mushaf-XML-XSL-CSS-DTD/blob/master/Demo%20Pics/XML%20With%20CSS.png) <br/>
 - With XSL: <br/>
