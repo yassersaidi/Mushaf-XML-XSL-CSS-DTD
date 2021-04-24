@@ -48,7 +48,7 @@ open mushaf.xml in the Firefox browser and install the two fonts 'Sindbad & Kacs
 and don't forget to change the stylesheet source in the xml file between (CSS & XSL)
 
 ## Follow Me
-- [Facebook](https://www.facebook.com/sohoper10) <br/>
-- [LinkedIn](https://www.linkedin.com/in/yasser-saidi-229275197) <br/>
+- [Facebook](https://www.facebook.com/yassersaididx) <br/>
+- [LinkedIn](https://www.linkedin.com/in/yassersaidi) <br/>
 
 ## :heart_eyes: :heart_eyes: Aid Mubark For You :heart_eyes: :heart_eyes:
